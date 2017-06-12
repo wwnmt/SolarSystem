@@ -1,2 +1,2 @@
 # SolarSystem
-based on openGL
+based on OpenGL
